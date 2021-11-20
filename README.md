@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.wallpapertip.com/wmimgs/95-957046_papel-de-parede-astronauta-desenho.jpg" alt="drawing" width="320"/>
+<img src="https://www.wallpapertip.com/wmimgs/95-957046_papel-de-parede-astronauta-desenho.jpg" alt="drawing" width="320" styles="float: left" />
 
 Here are some ideas to get you started:
 
