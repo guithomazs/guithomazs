@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**guithomazs/guithomazs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://www.wallpapertip.com/wmimgs/95-957046_papel-de-parede-astronauta-desenho.jpg)
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on cool projects    
 - 🤔 I’m looking for help with python language programing 
 - 📫 How to reach me: guithomazs@gmail.com
--->
